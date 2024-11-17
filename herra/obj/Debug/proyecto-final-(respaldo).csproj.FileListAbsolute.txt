@@ -1,0 +1,22 @@
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\bin\Debug\proyecto-final-(respaldo).exe.config
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\bin\Debug\proyecto-final-(respaldo).exe
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\bin\Debug\proyecto-final-(respaldo).pdb
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).csproj.AssemblyReference.cache
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\obj\Debug\proyecto_final__respaldo_.Form1.resources
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\obj\Debug\proyecto_final__respaldo_.Properties.Resources.resources
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).csproj.GenerateResource.cache
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).csproj.CoreCompileInputs.cache
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).exe
+C:\Users\14-cf2521la\source\repos\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).pdb
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\bin\Debug\proyecto-final-(respaldo).exe.config
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\bin\Debug\proyecto-final-(respaldo).exe
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\bin\Debug\proyecto-final-(respaldo).pdb
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).csproj.AssemblyReference.cache
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto_final__respaldo_.Form1.resources
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto_final__respaldo_.Properties.Resources.resources
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).csproj.GenerateResource.cache
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).csproj.CoreCompileInputs.cache
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).exe
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto-final-(respaldo).pdb
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto_final__respaldo_.Form2.resources
+C:\Users\Kely Barrientos\Desktop\herramientas santiago\Proyecto-final\Proyecto-final\proyecto-final-(respaldo)\obj\Debug\proyecto_final__respaldo_.FormHistorial.resources
